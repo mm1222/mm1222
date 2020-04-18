@@ -1,0 +1,44 @@
+{
+  "id": "1729673",
+  "name": "项目1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7549823",
+      "name": "价格",
+      "font_class": "RectangleCopy",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "4397654",
+      "name": "刷新",
+      "font_class": "shuaxin",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "706851",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "13604675",
+      "name": "向右",
+      "font_class": "xiangyou",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "814464",
+      "name": "向下 ",
+      "font_class": "xiangxia",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    }
+  ]
+}
